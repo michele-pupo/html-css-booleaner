@@ -11,11 +11,10 @@ h3{
     color: gray;
 }
 
-span{
-    background-color: yellow;
-}
-
 #paragrafo-puntato{
     padding-inline-start: 15px;
 }
 
+span{
+    background-color: yellow;
+}
