@@ -1,6 +1,13 @@
-#titolo-principale{
+.titolo-principale{
    margin: 1px;
-   background: url(pattern.png) color(rgb rgb(0, 191, 255) green blue);
+   background-color: rgb(0, 166, 255);
+   background-image: url(img/pattern.png);
+   font-size: 80px;
+}
+
+h1{
+    color: white;
+    width: auto;
 }
 
 h2{
@@ -9,6 +16,11 @@ h2{
 
 h3{
     color: gray;
+}
+
+.testo-azzurro{
+    color: rgb(0, 140, 255);
+    background-color: white;
 }
 
 #paragrafo-puntato{
