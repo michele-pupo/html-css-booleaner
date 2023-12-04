@@ -1,20 +1,21 @@
-#body {
-  height: 100px;
-  width: 200px;
-}
-
-
 #titolo-principale{
    margin: 1px;
-   padding: 15px;
-   background-color:rgb(0, 139, 253) ;
-   background-image: url();
+   background: url(pattern.png) color(rgb rgb(0, 191, 255) green blue);
 }
 
-#p{
-    text-align: left;
+h2{
+    color: gray;
+}
+
+h3{
+    color: gray;
+}
+
+span{
+    background-color: yellow;
 }
 
 #paragrafo-puntato{
     padding-inline-start: 15px;
 }
+
