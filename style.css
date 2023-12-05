@@ -1,3 +1,4 @@
+/* nav */
 nav{
     background-image: url("img/pattern.png");
     background-color: #4ea0ff;
@@ -7,6 +8,22 @@ nav{
     width: 370px;
     height: auto;
 }
+/* fine nav */
+
+
+/* header */
+#author{
+    color: gray;
+}
+
+#date{
+    color: gray;
+    /* l'unità di misura em indica una proporzione del testo principale della pagina */
+    font-size: 0.8em;
+    font-size: 12pxS;
+}
+
+/* fine header */
 
 
 h1{
