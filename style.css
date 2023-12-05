@@ -26,6 +26,13 @@ nav{
 /* fine header */
 
 
+/* sezione foto */
+figure{
+    margin: 0px;
+}
+/* fine sezione foto */
+
+
 h1{
     color: black;
     width: auto;
