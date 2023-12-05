@@ -59,35 +59,24 @@ thead{
 
 /* fine sezione tabella */
 
-h1{
-    color: black;
-    width: auto;
-    font-size: 45px;
-}
-
+/* sezione immagini */
 
 h2{
+    font-size: 1.1em;
     color: gray;
 }
 
+.article-image{
+    background-image: url(img/monitor.jpg);
+    background-size: 100% 100%;
 
-h3{
-    color: gray;
+    width: 250px;
+    height: 180px;
+
+    margin-bottom: 12px;
+
+    color: white;
+    font-weight: bold;
 }
 
-
-.testo-azzurro{
-    color: rgb(0, 140, 255);
-    background-color: white;
-}
-
-
-#paragrafo-puntato{
-    padding-inline-start: 15px;
-}
-
-
-.seconda-riga{
-    background-color: white;
-    color: black;
-}
+/* fine sezione immagini */
