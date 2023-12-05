@@ -2,11 +2,15 @@
 nav{
     background-image: url("img/pattern.png");
     background-color: #4ea0ff;
+    background-size: auto 200%;
 }
 
 #logo{
     width: 370px;
     height: auto;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    margin-left: 6px;
 }
 /* fine nav */
 
