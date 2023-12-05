@@ -16,6 +16,11 @@ nav{
     color: gray;
 }
 
+#author-link{
+    font-size:  #4ea0ff;
+    text-decoration: none;
+}
+
 #date{
     color: gray;
     /* l'unità di misura em indica una proporzione del testo principale della pagina */
@@ -31,6 +36,7 @@ figure{
     margin: 0px;
 }
 /* fine sezione foto */
+
 
 
 h1{
@@ -58,11 +64,6 @@ h3{
 
 #paragrafo-puntato{
     padding-inline-start: 15px;
-}
-
-
-span{
-    background-color: yellow;
 }
 
 
